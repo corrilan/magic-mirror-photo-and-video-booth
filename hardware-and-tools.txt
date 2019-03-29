@@ -1,4 +1,4 @@
-List of the hardware I used with costs and notes
+List of the hardware I used with costs and notes:
 
 Our old Panasonic flatscreen TV turned on its side (bloody heavy!) - £0.00
 Two Way Acrylic Mirror Sheet (1000mm x 620mm x 3mm), recommend glass long term as the heat can cause the acrylic to warp.  Supplied cut to size by Cut Plastic Sheeting https://www.cutplasticsheeting.co.uk - £127.19
@@ -32,7 +32,7 @@ Time to construct, test and tinker - Around 6 months, whilst my other half plann
 Help and support from the Lychee team - £Priceless
 Special thanks to James Cordell for assisting with the project.
 
-<b>List of tools used (already owned or borrowed from friends/family)</b>
+List of tools used (already owned or borrowed from friends/family):
 
 1x soldering iron
 1x pair of wire cutters
