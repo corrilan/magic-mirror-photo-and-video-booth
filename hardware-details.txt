@@ -1,8 +1,8 @@
 List of the hardware I used with costs and notes
 
 Our old Panasonic flatscreen TV turned on its side (bloody heavy!) - £0.00
-2 way perspex mirror, recommend glass long term as the heat can cause the perspex to warp.  Supplied cut to size by http:// - £
-Custom made picture frame surround (made by Phoenix Frames in Rayleigh Essex, https://www.pictureframingessex.co.uk) - £
+2 way perspex mirror, recommend glass long term as the heat can cause the perspex to warp.  Supplied cut to size by Cut Plastic Sheeting https://www.cutplasticsheeting.co.uk - £
+Custom made picture frame surround, made by Phoenix Frames in Rayleigh Essex https://www.pictureframingessex.co.uk - £
 Hook and Loop tape, my Dad had some over - £0.00
 2x 30cm rulers - £
 Raspberry Pi 3 - £
@@ -18,6 +18,7 @@ Matt black spray paint for button mountings - £
 Button wires - £
 Button wire ends - £
 Button wire croc clips - £
+2x 10K ohm 1W Metal Film Resistor - £
 Solder - £
 Heat shrink tubing - £
 Aluminium tape for shielding - £
