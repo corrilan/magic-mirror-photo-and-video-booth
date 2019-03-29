@@ -14,7 +14,7 @@ Logitech HD Pro Webcam C920 (PC World)- £59.99
 USB wireless mouse and keyboard, from old PC - £0.00
 2x Big Dome Push Button - blue and red.  Supplied by https://www.coolcomponents.co.uk - £18.38
 2x button mountings (actually some perfectly sized cookie containers!) - £
-Matt black spray paint for button mountings - £
+Matt black spray paint for button mountings (The Factory Shop) - £1.00
 Button wires - £
 Button wire ends - £
 Quick Disconnects - Female 1/4".  Supplied by https://www.coolcomponents.co.uk - £7.66
@@ -26,9 +26,14 @@ Aluminium tape for shielding - £
 Zip ties - £
 Cleaning cloths - £
 4 plug extention lead - £
-Rubber matt - £
+2x rubber matt - £
 Software - £0.00 - Gotta love the Open Source!
 Time to construct, test and tinker - Around 6 months, whilst my other half planned the remainder of the Big Day.
 Help and support from the Lychee team - £Priceless
+Special thanks to James Cordell for assisting with the project.
 
-List of main tools used
+List of tools used (already owned or borrowed from friends/family)
+1x soldering iron
+1x pair of wire cutters
+1x heat gun
+1x flat bladed screwdriver
