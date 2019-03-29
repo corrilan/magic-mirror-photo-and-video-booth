@@ -32,7 +32,8 @@ Time to construct, test and tinker - Around 6 months, whilst my other half plann
 Help and support from the Lychee team - £Priceless
 Special thanks to James Cordell for assisting with the project.
 
-List of tools used (already owned or borrowed from friends/family)
+<b>List of tools used (already owned or borrowed from friends/family)</b>
+
 1x soldering iron
 1x pair of wire cutters
 1x heat gun
