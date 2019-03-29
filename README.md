@@ -11,3 +11,5 @@ Photographs are uploaded to Lychee using lycheeupload https://github.com/r0x0r/l
 The Raspberry Pi 3 is underpowered for effective local processing and storage of video so I made use of online services such as YouTube Live to let them handle the video storage and processing.
 
 Soon I hope to place a link here to a video of the booth in action.
+
+I decided to splash out on a 2 way mirror and a nice picture frame surround but costs can be cut drastically if these are not imperative.  Make larger or smaller devices using for example an old TV or monitor you have lying around - I plan on making a more portable table top version in the future myself.
