@@ -1,11 +1,30 @@
-List of the hardware I used with costs
+List of the hardware I used with costs and notes
 
 Our old Panasonic flatscreen TV turned on its side (bloody heavy!) - £0.00
-2 way perspex mirror - £
-Custom made picture frame surround - £
+2 way perspex mirror, recommend glass long term as the heat can cause the perspex to warp.  Supplied cut to size by http:// - £
+Custom made picture frame surround (made by Phoenix Frames in Rayleigh Essex, https://www.pictureframingessex.co.uk) - £
 Hook and Loop tape, my Dad had some over - £0.00
+2x 30cm rulers - £
 Raspberry Pi 3 - £
 Raspberry Pi 3 PSU - £
 SD Card (GB)  - £
 HDMI lead - £
-Web cam - £
+Logitech HD Pro Webcam C920 - £
+USB wireless mouse and keyboard, from old PC - £0.00
+2x buttons - £
+2x button mountings (actually some perfectly sized cookie containers!) - £
+Matt black spray paint for button mountings - £
+Button wires - £
+Button wire ends - £
+Button wire croc clips - £
+Solder - £
+Heat shrink tubing - £
+Aluminium tape for shielding - £
+Zip ties - £
+Cleaning cloths - £
+4 plug extention lead - £
+Rubber matt - £
+Software - £0.00 - Gotta love the Open Source!
+Time to construct, test and tinker - Around 6 months, whilst my other half planned the remainder of the Big Day.
+
+List of main tools used
