@@ -6,8 +6,11 @@ To date, this is the culmination of six months development work, originally writ
 Links to specific gathering albums showing some differing overlays and effects on the photographs:
 
 Friends Christmas gathering album:  https://www.jason-and-lynsey.com/#15443063109364
-Family Christmas Day album:         https://www.jason-and-lynsey.com/#15456717649826 
+
+Family Christmas Day album:         https://www.jason-and-lynsey.com/#15456717649826
+
 Murder mystery night album:         https://www.jason-and-lynsey.com/#15458187660284
+
 Wedding album:                      https://www.jason-and-lynsey.com/#15486036679244
 
 Code is very rough but hopefully people have some ideas on how to make it easier to manage the system - possibly a web based interface to change settings quickly for non coders.
