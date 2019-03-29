@@ -1,7 +1,7 @@
 List of the hardware I used with costs and notes
 
 Our old Panasonic flatscreen TV turned on its side (bloody heavy!) - £0.00
-2 way perspex mirror, recommend glass long term as the heat can cause the perspex to warp.  Supplied cut to size by Cut Plastic Sheeting https://www.cutplasticsheeting.co.uk - £
+Two Way Acrylic Mirror Sheet (1000mm x 620mm x 3mm), recommend glass long term as the heat can cause the acrylic to warp.  Supplied cut to size by Cut Plastic Sheeting https://www.cutplasticsheeting.co.uk - £127.19
 Custom made picture frame surround, made by Phoenix Frames in Rayleigh Essex https://www.pictureframingessex.co.uk - £
 Hook and Loop tape, my Dad had some over - £0.00
 2x 30cm rulers - £
@@ -10,15 +10,15 @@ Raspberry Pi 3 PSU - £
 Raspberry Pi 3 case - £
 SD Card (GB)  - £
 HDMI lead - £
-Logitech HD Pro Webcam C920 - £
+Logitech HD Pro Webcam C920 (PC World)- £59.99
 USB wireless mouse and keyboard, from old PC - £0.00
-2x buttons - £
+2x Big Dome Push Button - blue and red.  Supplied by https://www.coolcomponents.co.uk - £18.38
 2x button mountings (actually some perfectly sized cookie containers!) - £
 Matt black spray paint for button mountings - £
 Button wires - £
 Button wire ends - £
-Button wire croc clips - £
-2x 10K ohm 1W Metal Film Resistor (EBAY) - £0.30
+Quick Disconnects - Female 1/4".  Supplied by https://www.coolcomponents.co.uk - £7.66
+2x 10K ohm 1W Metal Film Resistor (Found on EBAY) - £0.30
 Solder - £
 Heat shrink tubing - £
 Aluminium tape for shielding - £
@@ -29,5 +29,6 @@ Cleaning cloths - £
 Rubber matt - £
 Software - £0.00 - Gotta love the Open Source!
 Time to construct, test and tinker - Around 6 months, whilst my other half planned the remainder of the Big Day.
+Help and support from the Lychee team - £Priceless
 
 List of main tools used
