@@ -15,15 +15,17 @@ Wedding album:                      https://www.jason-and-lynsey.com/#1548603667
 
 Code is very rough but hopefully people have some ideas on how to make it easier to manage the system - possibly a web based interface to change settings quickly for non coders.
 
+The bulk of the code is contained in start-photo-video-booth-python3.py accompanied by a few helper Bash scripts.
+
 Backend for photograph storage and browsing is running on a remote web server using Lychee https://github.com/LycheeOrg/Lychee
 
 Photographs are uploaded to Lychee using lycheeupload https://github.com/r0x0r/lycheeupload
 
 One of the photograph overlay options (murder mystery) uses a lupe.sh script created and released under GPL by Fred Weinhaus.
 
-The Raspberry Pi 3 is underpowered for effective local processing and storage of video so I made use of online services such as YouTube Live to let them handle the video storage and processing.
+The Raspberry Pi 3 is underpowered for effective local processing and storage of video so I made use of online services such as YouTube Live to let them handle the video storage and processing.  (Bash script called for this procedure)
 
-Soon I hope to place a link here to a video of the booth in action.
+Soon I hope to place a link here to a video/photographs of the booth in action.
 
 Objects such as some audio and video that is used cannot be uploaded due to copyright.  When I get time I will create alternative 'placeholder' media which can be replaced with your own creations/purchases.
 
