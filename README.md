@@ -19,6 +19,8 @@ Backend for photograph storage and browsing is running on a remote web server us
 
 Photographs are uploaded to Lychee using lycheeupload https://github.com/r0x0r/lycheeupload
 
+One of the photograph overlay options (murder mystery) uses a lupe.sh script created and released under GPL by Fred Weinhaus.
+
 The Raspberry Pi 3 is underpowered for effective local processing and storage of video so I made use of online services such as YouTube Live to let them handle the video storage and processing.
 
 Soon I hope to place a link here to a video of the booth in action.
