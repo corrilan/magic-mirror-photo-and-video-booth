@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg enable-background="new 0 0 792 612" version="1.1" viewBox="0 0 792 612" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<polygon points="783.17 252.33 25 252.33 25 267.35 771.48 267.35 771.48 339.78 783.67 339.78"/>
+<g fill="none" stroke="#000" stroke-miterlimit="10">
+	<line x1="783.17" x2="717.15" y1="265.35" y2="324.01"/>
+	<line x1="783.17" x2="693.15" y1="265.35" y2="281.77"/>
+	<path d="m706.8 265.35s2.568 10.189 1.559 13.41"/>
+	<path d="m708.36 278.76c23.854 11.764 23.854 30.233 23.854 30.233"/>
+	<path d="m732.21 308.99c27.455-3.199 50.955 10.324 50.955 10.324"/>
+	<path d="m734.56 265.35c2.024 0 2.398 7.737 2.398 7.737"/>
+	<path d="m736.96 273.09c11.371 2.374 17.13 8.541 17.13 14.084"/>
+	<path d="m754.09 287.17c16.908 0 29.074 6.704 29.074 6.704"/>
+	<path d="m771 265.35c-23.619 81.135-62.407 106.13-62.407 106.13"/>
+</g>
+		<radialGradient id="h" cx="706.82" cy="362.94" r="9.9623" gradientTransform="matrix(1 0 0 1.25 0 -90.735)" gradientUnits="userSpaceOnUse">
+		<stop stop-color="#726658" offset="0"/>
+		<stop offset="1"/>
+	</radialGradient>
+	<path d="m712.84 371.95c-4.134 2.761-10.179 0.963-13.503-4.016-3.323-4.978-2.666-11.25 1.468-14.01s10.179-0.963 13.502 4.016c3.32 4.98 2.67 11.25-1.47 14.01z" fill="url(#h)" stroke="#000" stroke-miterlimit="10"/>
+		<radialGradient id="i" cx="719.67" cy="356.37" r="5.9041" gradientTransform="matrix(1 0 0 1.5 0 -178.18)" gradientUnits="userSpaceOnUse">
+		<stop stop-color="#726658" offset="0"/>
+		<stop offset="1"/>
+	</radialGradient>
+	<path d="m723.24 361.71c-2.45 1.637-6.033 0.57-8.002-2.38-1.97-2.949-1.581-6.667 0.869-8.302 2.45-1.636 6.032-0.57 8.002 2.379s1.58 6.66-0.87 8.3z" fill="url(#i)" stroke="#000" stroke-miterlimit="10"/>
+	<g fill="none" stroke="#000" stroke-miterlimit="10">
+		<polyline points="732.57 365.72 732.08 357.36 725.3 356.88"/>
+		<polyline points="720.13 350.64 721.35 342.35 714.81 340.5"/>
+	</g>
+	<g fill="none" stroke="#000" stroke-miterlimit="10">
+		<polyline points="727.48 374.47 730.69 365.1 723.5 361.53"/>
+		<polyline points="716.13 350.45 712.23 341.35 704.5 343.52"/>
+	</g>
+	<g fill="none" stroke="#000" stroke-miterlimit="10">
+		<polyline points="723.52 375.76 727.55 366.72 720.71 362.52"/>
+		<polyline points="714.74 352.75 709.33 344.45 702.09 347.92"/>
+	</g>
+	<g fill="none" stroke="#000" stroke-miterlimit="10">
+		<polyline points="730.31 371.62 732.56 361.98 725.04 359.15"/>
+		<polyline points="719.21 350.55 716.42 341.05 708.49 342.29"/>
+	</g>
+	<polygon points="713.58 364.75 707.01 369.94 706.82 362.94 700.06 361.13 706.64 355.94 706.94 362.84" fill="#ED1C24"/>
+	<radialGradient id="j" cx="721.02" cy="353.27" r=".8359" gradientUnits="userSpaceOnUse">
+		<stop stop-color="#414042" offset="0"/>
+		<stop offset="1"/>
+	</radialGradient>
+	<circle cx="721.02" cy="353.27" r=".835" fill="url(#j)"/>
+	<radialGradient id="k" cx="723.23" cy="356.37" r=".8369" gradientUnits="userSpaceOnUse">
+		<stop stop-color="#414042" offset="0"/>
+		<stop offset="1"/>
+	</radialGradient>
+	<circle cx="723.23" cy="356.37" r=".835" fill="url(#k)"/>
+	<radialGradient id="l" cx="720.4" cy="354.88" r=".8364" gradientUnits="userSpaceOnUse">
+		<stop stop-color="#414042" offset="0"/>
+		<stop offset="1"/>
+	</radialGradient>
+	<circle cx="720.4" cy="354.88" r=".835" fill="url(#l)"/>
+	<radialGradient id="m" cx="721.51" cy="356.15" r=".8369" gradientUnits="userSpaceOnUse">
+		<stop stop-color="#414042" offset="0"/>
+		<stop offset="1"/>
+	</radialGradient>
+	<circle cx="721.51" cy="356.15" r=".835" fill="url(#m)"/>
+	<radialGradient id="n" cx="722.39" cy="354.64" r=".8364" gradientUnits="userSpaceOnUse">
+		<stop stop-color="#414042" offset="0"/>
+		<stop offset="1"/>
+	</radialGradient>
+	<circle cx="722.39" cy="354.64" r=".835" fill="url(#n)"/>
+</svg>

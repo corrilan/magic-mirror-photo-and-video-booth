@@ -1,0 +1,3 @@
+https://www.youtube.com/playlist?list=PLnydpgUjyvl9ILbFBuZxaqFgWdcgog7ha
+
+layer --blank --win '0 0 1054 3142' --adev local --no-keys --no-osd --aspect-mode letterbox mute-letterbox-dreadwoods-ghost-bride.mp4 ./FFmpeg/ffmpeg -thread_queue_size 512 -threads 3 -ar 44100 -ac 2 -f alsa -i hw:1,0 -f v4l2 -thread_queue_size 512 -itsoffset 1 -codec:v h264 -framerate 30 -video_size 1280x720 -i /dev/video0 -copyinkf -codec:v copy -codec:a aac -ab 128k -g 10 -rtsp_transport tcp -t 25 -f flv rtmp://a.rtmp.youtube.com/live2/r63d-d09g-vxxw-5upy

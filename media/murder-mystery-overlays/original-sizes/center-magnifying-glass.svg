@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 335.81 397.6" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="e" x1="353.97" x2="353.89" y1="427.12" y2="467.12" gradientTransform="translate(-557.66 15.868)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-color="#393939" offset=".5"/>
+   <stop offset="1"/>
+  </linearGradient>
+  <radialGradient id="g" cx="472.5" cy="233.43" r="109.48" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#c9c9c9" stop-opacity=".12057" offset="0"/>
+   <stop stop-color="#dbe3e3" stop-opacity=".34118" offset=".25"/>
+   <stop stop-color="#edfdfe" stop-opacity=".086275" offset=".5"/>
+   <stop stop-color="#e4fcfd" stop-opacity=".12941" offset=".75"/>
+   <stop stop-color="#929292" stop-opacity=".56028" offset="1"/>
+  </radialGradient>
+  <linearGradient id="a" x1="478.38" x2="477.88" y1="436.4" y2="457.83" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dcdcdc" offset="0"/>
+   <stop stop-color="#6a6a6a" offset=".5"/>
+   <stop stop-color="#e4e4e4" offset="1"/>
+  </linearGradient>
+  <linearGradient id="f" x1="485" x2="485" y1="432.36" y2="462.36" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dcdcdc" offset="0"/>
+   <stop stop-color="#6a6a6a" offset=".5"/>
+   <stop stop-color="#e4e4e4" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-179.84 -121.04)">
+  <rect transform="rotate(-52.728)" x="-281.23" y="442.98" width="175.71" height="40" rx="7.8571" ry="7.8571" fill="url(#e)" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="matrix(.6056 -.79577 .79577 .6056 -325.09 453.38)" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+   <rect x="452.86" y="433.9" width="7.8571" height="26.429" rx="7.8571" ry="0" fill="url(#a)"/>
+   <rect x="460.71" y="436.4" width="42.857" height="21.429" rx="2.8064" ry="2.8064" fill="url(#f)"/>
+   <rect x="503.25" y="433.9" width="7.8571" height="26.429" rx="7.8571" ry="0" fill="url(#a)"/>
+   <rect x="511.11" y="438.06" width="8.4492" height="18.106" rx="7.8571" ry="0" fill="url(#a)"/>
+  </g>
+  <path transform="matrix(.57341 -.75347 .75347 .57341 -39.826 451.87)" d="m580 233.43c0 59.371-48.129 107.5-107.5 107.5s-107.5-48.129-107.5-107.5 48.129-107.5 107.5-107.5 107.5 48.129 107.5 107.5z" fill="url(#g)" stroke="#000" stroke-width="3.9574"/>
+  <text x="333.35034" y="240.19954" fill="#000000" font-family="Manga Temple" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:125%" xml:space="preserve">
+      <tspan x="333.35034" y="240.19954"/>
+    </text>
+ </g>
+</svg>
