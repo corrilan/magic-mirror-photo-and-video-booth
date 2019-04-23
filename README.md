@@ -23,4 +23,6 @@ The Raspberry Pi 3 is underpowered for effective local processing and storage of
 
 Soon I hope to place a link here to a video of the booth in action.
 
+Objects such as some audio and video that is used cannot be uploaded due to copyright.  When I get time I will create alternative 'placeholder' media which can be replaced with your own creations/purchases.
+
 I decided to splash out on a 2 way mirror and a nice picture frame surround but costs can be cut drastically if these are not imperative.  Make larger or smaller devices using for example an old TV or monitor you have lying around - I plan on making a more portable table top version in the future myself.
