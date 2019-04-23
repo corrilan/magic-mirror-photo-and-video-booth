@@ -704,8 +704,8 @@ def take_video(self):
     surf.fill(pygame.Color("black"))
     pygame.display.update()
     # Need to add 2 seconds onto the timeout below
-    #os.system("/usr/bin/timeout %(TAKE_VIDEO_CLIP_LENGTH)s /home/pi/photo-video-booth-code/record-video.sh %(TAKE_VIDEO_CLIP_LENGTH)s /home/pi/photo-video-booth-code/videos/video-%(timestr)s.mp4" % {'TAKE_VIDEO_CLIP_LENGTH': TAKE_VIDEO_CLIP_LENGTH, 'timestr': timestr})
-    #os.system("/usr/bin/timeout %s /home/pi/photo-video-booth-code/stream-to-youtube.sh" % TAKE_VIDEO_CLIP_LENGTH)
+    #os.system("/usr/bin/timeout %(TAKE_VIDEO_CLIP_LENGTH)s /home/pi/magic-mirror-photo-and-video-booth/record-video.sh %(TAKE_VIDEO_CLIP_LENGTH)s /home/pi/photo-video-booth-code/videos/video-%(timestr)s.mp4" % {'TAKE_VIDEO_CLIP_LENGTH': TAKE_VIDEO_CLIP_LENGTH, 'timestr': timestr})
+    #os.system("/usr/bin/timeout %s /home/pi/magic-mirror-photo-and-video-booth/stream-to-youtube.sh" % TAKE_VIDEO_CLIP_LENGTH)
     #os.system("%(CODE_PATH)s/stream-to-youtube.sh" % {'CODE_PATH': CODE_PATH})
     #os.system("%(CODE_PATH)s/stream-to-twitch.sh" % {'CODE_PATH': CODE_PATH})
     #cam = cv2.VideoCapture(0)
@@ -720,7 +720,7 @@ def take_video(self):
                 break
  
     #s, im = cam.read() # Captures image
-    #cv2.imwrite('/home/pi/photo-video-booth-code/videos/video-%s.mp4' % timestr) # Writes image to disk
+    #cv2.imwrite('/home/pi/magic-mirror-photo-and-video-booth/videos/video-%s.mp4' % timestr) # Writes image to disk
     #cam.release()
     #cv2.destroyAllWindows()
 
