@@ -1,7 +1,7 @@
 # Magic-Mirror-Photo-and-Video-Booth
 Python based magic mirror/photo and video booth aimed at running on a Raspberry Pi 3 using a Logitech HD Pro Webcam C920.  Photographs upload to a self hosted Lychee server (plus local copy) and video is output to YouTube, Twitch or similar online service - fast Internet connection required for successful use of video feature.
 
-To date, this is the culmination of six months development work, originally written and successfully used for my wedding in February 2019, with testing taking place at Christmas 2018 and a murder mystery night in.  You can access my own Lychee server to see examples of photographs from these events at https://www.jason-and-lynsey.com.  See the album entitled "Wedding Magic Mirror Photobooth".
+To date, this is the culmination of six months development work, originally written and successfully used for my wedding in February 2019, with testing taking place at Christmas 2018 and a murder mystery night.  You can access my own Lychee server to see examples of photographs from these events at https://www.jason-and-lynsey.com.  See the album entitled "Wedding Magic Mirror Photobooth".
 
 Links to specific gathering albums showing some differing overlays and effects on the photographs:
 
