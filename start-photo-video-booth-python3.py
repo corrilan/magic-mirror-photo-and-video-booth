@@ -42,7 +42,7 @@ else:
     surf = pygame.display.set_mode(window_size)
 
 # Options
-CODE_PATH = "/home/pi/photo-video-booth-code"
+CODE_PATH = "/home/pi/magic-mirror-photo-and-video-booth"
 PREVIEW = 0
 EVENT = "CHRISTENING" # NONE WEDDING CHRISTMAS EASTER BIRTHDAY CHRISTENING MURDER-MYSTERY HALLOWEEN HENPARTY STAGPARTY FUNERAL BARMITZVA
 OVERLAY_TEXT = "Lynsey & Jason 28/02/2019" # Not yet working, overlay text currently within GIMP created graphic file
